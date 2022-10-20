@@ -1,0 +1,19 @@
+{
+  "name": "excelreader",
+  "version": "1.0.0",
+  "description": "Used to read and organize the excel sheets",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Excel",
+    "Node"
+  ],
+  "author": "Abhishek Kumar Jha",
+  "license": "ISC",
+  "dependencies": {
+    "json2xls": "^0.1.2",
+    "simple-excel-to-json": "^2.3.0"
+  }
+}
